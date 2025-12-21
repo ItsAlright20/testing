@@ -1,1 +1,2 @@
-print("Hello World 3 times!")
+print("tEen bAr")
+print("Hello world 3 times!")
