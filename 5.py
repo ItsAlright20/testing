@@ -1,1 +1,0 @@
-print("today is 30th of december")
